@@ -6,12 +6,15 @@ Have you ever visited a website that seems uninteresting and boring? Have you gl
 *Author's note*
 <br>
 I've thought about how to change web browsing experience for this assignment. I predicted that while most extensions is through visual, I played travelling through another path. By experimenting with how a typical user experience browsing the web, I determine to subvert an expectation (through visual experience) and played with the audio organ. Not only subverting an expectation but also having fun with making an enjoyable experience through popular social memes. I have also played with clicking through links instead and have the user explore the site and every so often hear a random meme. Additionally, making the playability randomized so they experience the memes fresh and not repeated until the queue ran out. However other extenuating factors came in effect and unable to fully add these features.
-
+<br>
 *installation*
 <br>
 Locate extension settings. For chrome it is the located in the top right of your browser. After locating setting navigate to "more tools" and select "extension".
+<br>
 Enable developer mode first top right of extensions settings.
-After unpacking the zip file, open a web browser and locate extensions settings. 
+<br>
+After unpacking the zip file, open a web browser and locate extensions settings.
+<br>
 A new window will then open. Locate "load unpacked" then navigate to the extension folder you downloaded the extension. And Tada!, extension should work. 
 <br>
 
