@@ -32,7 +32,7 @@
 
     "content_scripts": [
         {
-            "matches": ["https://www.uleth.ca/*"],
+            "matches": ["<all_urls>"],
             "js": ["cont.js"]
 		}
 	]
